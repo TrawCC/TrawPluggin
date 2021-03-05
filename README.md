@@ -4,9 +4,8 @@ If you want to test it out, put the trawpluggin.jar inside your "pluggins" folde
 
 Commands Available for now and for ever (I wont be updating..)
 
------------------------------------------------
 /traw
------------------------------------------------
+
 
 
 Have a good Day. github.com/TrawCC
